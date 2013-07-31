@@ -26,7 +26,7 @@ Features that need to be added <br>
 <br>
 4)Upload more coarses or tutorials.
 <br>
-
+5)Improved look, a bit more userfriendly for home page.
 
 ========================================================================================================================
 
