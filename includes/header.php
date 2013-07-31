@@ -20,18 +20,15 @@ else
 
 	</head>
 		<body>
-		
-			
-			
+		<div><a href="https://github.com/sidoknowia/studyfoyer"><img style="position: absolute; top: 10; right: 0; border: 0;" src="./images/image-01.png" alt="Fork me on GitHub"></a></div>
 			<div id="top">
+			<div>
+		<a href="https://github.com/sidoknowia/studyfoyer"><img style="position: absolute; top: -2; right: 1; border: 0;" src="./images/forkme.png" alt="Fork me on GitHub"></a>
+		</div>
 			<div id="logo">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 			<a href="index.php"><img src="./images/studyfoyer.jpg" height="68px" width="250px"></a>
 			</div>
-	
 			
-			
-			
-					 
 						<div id="menu">
 								
 						<ul>
