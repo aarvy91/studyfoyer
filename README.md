@@ -34,7 +34,8 @@ How you can contribute <br>
 ============================
 Fork us on github,<br> 
 -Develop one the required feature and commit it.<br>
--You can find tutrial/coarses on youtube, copy the links in sample.txt file, inbetween href="YOUR LINK" and commit it.<br>
+-You can find tutorial/coarses on youtube, copy the links in sample.txt file in a new file,save it with .php extension, 
+copy youtube links inbetween href="YOUR LINK" and commit it.<br>
 -Participate in forums <br>
 
 If you have any new idea for improvement share it with us, just make a text file and commit it
