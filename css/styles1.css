@@ -1,0 +1,348 @@
+
+/*--- HEADINGS ---*/
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Oswald', Arial, sans-serif;
+	font-style: normal;
+	font-weight: 500;
+	
+}
+
+h1{font-size:2.5em;	margin-bottom:0.75em; line-height:1.5;}
+h2{font-size:2.3em;	margin-bottom:1em; line-height:1.4em;}
+h3{font-size:2em; margin-bottom:1em; line-height:1.3;}
+h4{font-size:1.5em;	margin-bottom:0.8em; line-height:auto; text-shadow: none; font-weight:bold;}
+h5{font-size:1.3em; margin-bottom:0.6em; text-shadow: none; line-height:auto;}
+h6{font-size:1.2em; margin-bottom:0.6em; text-shadow: none; line-height:auto;}
+.lectures {
+    width:auto;
+    float:left;
+    margin:20 0 0 25;
+    padding:20 0 0 0px;
+    background: none repeat scroll 0% 0% rgb(255, 255, 255);
+    border-radius: 4px 4px 4px 4px;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.16);	
+}
+.section {
+    width:50%;
+    float:right;
+    margin:0 0 0 0;
+    padding:0 0 0 10;
+	
+    border-radius: 4px 4px 4px 4px;
+	box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.16);  	
+	
+	}
+
+.buttons{
+	width:40%;
+	height:333;
+	float:left;
+	border-radius: 4px 4px 4px 4px;
+	box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.16); 
+}
+.buttons ul{
+	float:inline;
+  list-style-type: none;
+}
+.buttons ul li{
+float:left;
+padding-right:20; 
+}
+.bt{
+	width:auto;
+	height:auto;
+	float:left;
+	padding-left:220px;
+	
+}
+
+	
+#abt{
+	width:500;
+	float:right;
+	
+	background: none repeat scroll 0% 0% rgb(255, 255, 255);
+    border-radius: 4px 4px 4px 4px;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.16);	
+
+}
+#field {
+    width:200;
+    float:left;
+    margin:3 3 3 3;
+    padding:5 5 5 5;
+    background: none repeat scroll 0% 0% rgb(255, 255, 255);
+    border-radius: 4px 4px 4px 2px;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.16);
+	text-align:center;
+}
+.courses {
+    width:100%;
+    float:left;
+    margin:20 0 0 0;
+    padding:20 10 10 50;
+    background: none repeat scroll 0% 0% rgb(255, 255, 255);
+    border-radius: 4px 4px 4px 4px;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.16);	
+}
+#corflds {
+    width:200;
+    float:left;
+    margin:8 10 10 80;
+    padding:20 0 0 0;
+    background: none repeat scroll 0% 0% rgb(255, 255, 255);
+    border-radius: 4px 4px 4px 4px;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.16);	
+}
+.fldbkg {
+    width:28%;
+    float:left;
+    margin:5 5 5 5;
+    padding:5 5 5 5;
+    background: none repeat scroll 0% 0% rgb(255, 255, 255);
+    border-radius: 4px 4px 4px 4px;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.16);	
+}
+
+
+
+#registration{
+
+	width: 430px;
+	float: left;
+	background: #fff;
+	color: #777;
+	-webkit-box-shadow: 0px 0px 8px 2px #d1d1d1;
+	-moz-box-shadow: 0px 0px 8px 2px #d1d1d1;
+	box-shadow: 0px 0px 8px 2px #d1d1d1; 
+	-webkit-border-top-left-radius: 0px;
+	-webkit-border-top-right-radius: 0px;
+	-webkit-border-bottom-right-radius: 6px;
+	-webkit-border-bottom-left-radius: 6px;
+	-moz-border-radius-topleft: 0px;
+	-moz-border-radius-topright: 0px;
+	-moz-border-radius-bottomright: 6px;
+	-moz-border-radius-bottomleft: 6px;
+	border-top-left-radius: 0px;
+	border-top-right-radius: 0px;
+	border-bottom-right-radius: 6px;
+	border-bottom-left-radius: 6px; 
+	overflow: hidden;
+	padding-left:42px;
+	padding-top:15px;
+	padding-bottom:15px;
+}
+
+#regcover{
+float:center;
+padding-top:65;
+padding-left:420;
+}
+#rgcvr{
+float:center;
+padding-top:65;
+padding-left:420;
+}
+#forumheadingpos{
+float:left;
+padding-top:10;
+padding-left:300;
+}
+
+#reg{
+
+	width: 600px;
+	float: left;
+	background: #fff;
+	color: #777;
+	-webkit-box-shadow: 0px 0px 8px 2px #d1d1d1;
+	-moz-box-shadow: 0px 0px 8px 2px #d1d1d1;
+	box-shadow: 0px 0px 8px 2px #d1d1d1; 
+	-webkit-border-top-left-radius: 0px;
+	-webkit-border-top-right-radius: 0px;
+	-webkit-border-bottom-right-radius: 6px;
+	-webkit-border-bottom-left-radius: 6px;
+	-moz-border-radius-topleft: 0px;
+	-moz-border-radius-topright: 0px;
+	-moz-border-radius-bottomright: 6px;
+	-moz-border-radius-bottomleft: 6px;
+	border-top-left-radius: 0px;
+	border-top-right-radius: 0px;
+	border-bottom-right-radius: 6px;
+	border-bottom-left-radius: 6px; 
+	overflow: hidden;
+	padding-left:42px;
+	padding-top:15px;
+	padding-bottom:15px;
+}
+#forumheading{
+
+	width: 600px;
+	float:left;
+	background: #left;
+	color: #777;
+	-webkit-box-shadow: 0px 0px 8px 2px #d1d1d1;
+	-moz-box-shadow: 0px 0px 8px 2px #d1d1d1;
+	box-shadow: 0px 0px 8px 2px #d1d1d1; 
+	-webkit-border-top-left-radius: 0px;
+	-webkit-border-top-right-radius: 0px;
+	-webkit-border-bottom-right-radius: 6px;
+	-webkit-border-bottom-left-radius: 6px;
+	-moz-border-radius-topleft: 0px;
+	-moz-border-radius-topright: 0px;
+	-moz-border-radius-bottomright: 6px;
+	-moz-border-radius-bottomleft: 6px;
+	border-top-left-radius: 0px;
+	border-top-right-radius: 0px;
+	border-bottom-right-radius: 6px;
+	border-bottom-left-radius: 6px; 
+	overflow: hidden;
+	padding-left:135px;
+	padding-top:15px;
+	padding-bottom:15px;
+	font-size:25;
+}
+.formtitle{
+padding-left:67px;
+
+}
+
+.contacttitle{
+padding-left:110px;
+
+}
+.forgottitle{
+padding-left:50px;
+
+}
+
+.logbutton{
+padding-left:295px;
+}
+.clogbutton{
+padding-left:252px;
+}
+.flogbutton{
+
+}
+.loginbutton{  }
+
+td,tr
+{
+border:1px ;
+padding:2px;
+
+}
+
+#footer{
+	 border-radius: 2px 2px 2px 2px;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.16);
+	width: 200;
+	
+	background: #fff;
+	color: #777;
+	bottom:0;
+	right:0;
+	position:absolute;	
+}
+
+#utitle{
+	box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.16);
+	width: 400px;
+	padding-left:2%;
+	background: #fff;
+	color: #777;
+}
+
+#profimg{
+	box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.16);
+	width: 200px;
+	padding-left:10px;
+	background: #fff;
+	color: #777;
+}
+
+#profdet{
+	box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.16);
+	width: 200px;
+	padding-left:10px;
+	background: #fff;
+	color: #777;
+}
+.submit{
+padding: 5px 20px;
+border: 1px solid #3FA7CE;
+color: #fff;
+text-shadow: 0 1px 0 #3b9dc2;
+font-weight: bold;
+font-family: Arial;
+background: #3FA7CE;
+-moz-border-radius: 3px;
+-webkit-border-radius: 3px;
+border-radius: 3px;
+cursor: pointer;
+}
+.fb{
+padding: 5px 20px;
+border: 1px solid  #3B5998;
+color: #fff;
+text-shadow: 0 1px 0 #3b9dc2;
+font-weight: bold;
+font-family: Arial;
+background: #3B5998;
+-moz-border-radius: 3px;
+-webkit-border-radius: 3px;
+border-radius: 3px;
+cursor: pointer;
+}
+.tw{
+padding: 5px 20px;
+border: 1px solid #00aced;
+color: #fff;
+text-shadow: 0 1px 0 #3b9dc2;
+font-weight: bold;
+font-family: Arial;
+background: #00aced;
+-moz-border-radius: 3px;
+-webkit-border-radius: 3px;
+border-radius: 3px;
+cursor: pointer;
+}
+.in{
+padding: 5px 20px;
+border: 1px solid #007bb6;
+color: #fff;
+text-shadow: 0 1px 0 #3b9dc2;
+font-weight: bold;
+font-family: Arial;
+background:  #007bb6;
+-moz-border-radius: 3px;
+-webkit-border-radius: 3px;
+border-radius: 3px;
+cursor: pointer;
+}
+.cat_links {
+	width:1200;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	padding-top:10;
+	padding-bottom:10;
+	padding-left:12;
+	border: 1px solid #afafaf;
+	margin-top:35;
+	margin-bottom:0;
+	background-color: #fafafa;
+	color: #3B5998;
+	font-size:20px;
+}
+.cat_links:hover {
+	background-color: #3a9cc0;
+}
+#contentpos{
+margin-top:75;
+}
+
+.hidden {
+	display: none;
+}
